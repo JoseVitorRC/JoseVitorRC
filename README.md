@@ -1,9 +1,9 @@
-<h2 align="center">Bem-vindo ao meu GitHub!</h2>
+<h2 align="center"> 🐼 Bem-vindo ao meu GitHub! 🐼</h2>
 
 <br>
 <br>
  
-<h3 align="center">Falem comigo:</h3>
+<h3 align="center">Entrem em contato:</h3>
 <div align="center">
   <a href="mailto:cavalcanti.josevitor@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/josé-vítor-rodrigues-cavalcanti-8356b926a/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logoColor=white" alt="Linkedin"></a> 
@@ -24,7 +24,5 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/JoseVitorRC/JoseVitorRC/blob/main/cobrinha.yml">
-    <img src="https://github.com/JoseVitorRC/JoseVitorRC/blob/main/cobrinha.yml" />
-  </a>
+  <h3>Bebam água!!</h3>
 </div>
