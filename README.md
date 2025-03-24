@@ -13,9 +13,9 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/JoseVitorRC/github-readme-stats">
+<!--   <a href="https://github.com/JoseVitorRC/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=JoseVitorRC&show_icons=true&theme=dracula&hide_title=true" />
-  </a>
+  </a> -->
   <a href="https://github.com/JoseVitorRC/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVitorRC&theme=dracula&layout=compact" />
   </a>
